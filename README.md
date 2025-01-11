@@ -29,3 +29,30 @@ Models like SVM, KNN, Random Forest, Decision Tree, XGBoost, and CNN are trained
 
 7.	Evaluation:
 The models are evaluated using accuracy, precision, recall, and confusion matrices.
+
+In addition to the requirements.txt, this is all of the dependencies used for the entire project:
+
+Updated Dependencies
+Core Libraries:
+os
+
+Numerical Computing: 
+numpy
+
+Data Visualization:
+matplotlib
+seaborn
+
+Image Processing:
+Pillow (PIL)
+opencv-python
+
+Machine Learning Libraries:
+scikit-learn
+Includes train_test_split, StandardScaler, classification_report, confusion_matrix, DecisionTreeClassifier, RandomForestClassifier, KNeighborsClassifier, SVC, and PCA.
+tensorflow
+Includes Sequential, Conv2D, MaxPooling2D, Flatten, Dense, Dropout, LSTM, and to_categorical.
+xgboost
+
+Progress Monitoring:
+tqdm
