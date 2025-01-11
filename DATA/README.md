@@ -6,5 +6,7 @@ To access the dataset:
 3. I will provide a link to download the dataset securely.
 
 
-Various images of data examples are availiable here.
-See Preprocessing example and steps for brief overview.
+Various images of data examples are availiable here. BEFORE and AFTER Cropped.
+Importance of this was to reduce noise from Rulers, Hair, and various other objects not impotant for training models.
+
+See Preprocessing example and steps for brief overview and need for preprocessing.
