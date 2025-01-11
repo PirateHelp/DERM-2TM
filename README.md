@@ -18,14 +18,14 @@ Models: SVM, KNN, Random Forest, Decision Tree, XGBoost, CNN.
 
 How It Works
 1.	Preprocessing:
-o	Images are cropped to remove noise like rulers or hair.
-o	Sizes are normalized for consistency.
+Images are cropped to remove noise like rulers or hair.
+Sizes are normalized for consistency.
 
 3.	Feature Extraction:
-o	SIFT (Scale-Invariant Feature Transform) is used to extract important features for traditional machine learning models.
+SIFT (Scale-Invariant Feature Transform) is used to extract important features for traditional machine learning models.
 
 5.	Model Training:
-o	Models like SVM, KNN, Random Forest, Decision Tree, XGBoost, and CNN are trained on the data.
+Models like SVM, KNN, Random Forest, Decision Tree, XGBoost, and CNN are trained on the data.
 
 7.	Evaluation:
-o	The models are evaluated using accuracy, precision, recall, and confusion matrices.
+The models are evaluated using accuracy, precision, recall, and confusion matrices.
