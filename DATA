@@ -1,4 +1,7 @@
-The dataset is not included in this repository due to size constraints. 
+The dataset is not included in this repository due to size constraints.
+
+Original Dataset contains 6000 total images of skin cancer cell images. 
+Equally distributed (3000 malignant and 3000 benign).
 
 To access the dataset:
 1. Contact me via [GitHub Issues].
